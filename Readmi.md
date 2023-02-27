@@ -16,7 +16,7 @@
 ## Шаг 2
 Рисуем блок схему 
 
-<image src="/итог/Final.jpg" alt="Блок схема">
+![блок схема](https://github.com/Churbaeva/1/blob/main/Final.jpg)
 
 ## Шаг 3 
 Создаем текстовое описание Markdown
